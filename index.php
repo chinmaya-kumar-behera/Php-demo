@@ -1,1 +1,1 @@
-<?phpecho "Hello, Vercel!";?>
+<?php echo "Hello, Vercel!"; ?>
