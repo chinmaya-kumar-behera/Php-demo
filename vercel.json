@@ -1,1 +1,1 @@
-{ "version": 2, "rewrites": [ { "source": "/(.*)", "destination": "/index.php" } ] }
+{ "version": 2, "rewrites": [ { "source": "/(.*)", "destination": "/index.html" } ] }
